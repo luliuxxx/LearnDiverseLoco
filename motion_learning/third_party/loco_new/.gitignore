@@ -1,0 +1,12 @@
+*.egg-info
+__pycache__/
+.DS_Store
+.vscode
+.idea
+logs/
+wandb/
+commands.txt
+terrain.txt
+runs/
+experiments/*.sh
+!experiments/slurm_experiment.sh
