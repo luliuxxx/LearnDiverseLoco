@@ -5,9 +5,7 @@ The motion representation module involves motion reconstruction and motion gener
 
 ---
 
-## 🤖 Robots
-
-Currently dancing with:
+## Robots
 
 - **Unitree Go2**
 
@@ -33,7 +31,7 @@ python scripts/autoencode.py --ae.state='val' --ae.visu_mujoco=1 --ae.wandb=0 --
 
 ---
 
-## ⚙️ Running the Generator (GPT-based)
+##  Running the Generator (GPT-based)
 The following commands are used for working with the GPT-based generator:
 ###  Train
 To train the GPT model, use:
