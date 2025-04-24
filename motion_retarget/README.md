@@ -14,19 +14,6 @@ For motion retargeting, refer to the implementation available [here](https://git
 - Unitree A1
 - Unitree Go2
 
-## Getting Started
-### Create Conda Environment
-To create a Conda environment, follow these steps:
-1. Install the dependencies listed in `requirements.txt`.
-2. Use the following command to create a Conda environment, replacing `<env>` with your preferred name:
-    ```bash
-    conda create --name <env> --file requirements.txt
-    ```
-3. Activate the environment:
-    ```bash
-    conda activate <env>
-    ```
-
 ## Running Retargeting
 Before running retargeting, ensure that the dataset parameters are correctly configured in the respective config files:
 e.g dog motion capture dataset:

@@ -12,6 +12,7 @@ To create a Conda environment, follow these steps:
     conda activate <env>
     ```
 Paper accepted at: The 12th International Symposium on Adaptive Motion of Animals and Machines and 2nd LokoAssist Symposium.
+
 More details: https://www.ias.informatik.tu-darmstadt.de/uploads/Site/EditPublication/lu_liu_master_thesis.pdf
 
 ## Overview
